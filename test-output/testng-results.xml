@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="22" passed="18" failed="4" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T19:07:39 IST" name="Suite" finished-at="2023-04-27T19:14:12 IST" duration-ms="392365">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T19:07:39 IST" name="Test" finished-at="2023-04-27T19:14:12 IST" duration-ms="392365">
+      <class name="com.CambriaProject.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:07:40 IST" name="BrowserLauching" finished-at="2023-04-27T19:07:58 IST" duration-ms="18164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Login_With_Invalid_Character__Email_ID_Data()[pri:1, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:07:58 IST" name="Login_With_Invalid_Character__Email_ID_Data" finished-at="2023-04-27T19:07:59 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_With_Invalid_Character__Email_ID_Data -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:07:59 IST" name="Browserclose" finished-at="2023-04-27T19:07:59 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:07:59 IST" name="BrowserLauching" finished-at="2023-04-27T19:08:08 IST" duration-ms="8875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Login_with_Email_ID_without_domain_name_or_without_com_Extention()[pri:2, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:08 IST" name="Login_with_Email_ID_without_domain_name_or_without_com_Extention" finished-at="2023-04-27T19:08:09 IST" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_Email_ID_without_domain_name_or_without_com_Extention -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:09 IST" name="Browserclose" finished-at="2023-04-27T19:08:10 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:10 IST" name="BrowserLauching" finished-at="2023-04-27T19:08:25 IST" duration-ms="14924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Login_without_Email_ID()[pri:4, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:25 IST" name="Login_without_Email_ID" finished-at="2023-04-27T19:08:25 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_without_Email_ID -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:25 IST" name="Browserclose" finished-at="2023-04-27T19:08:25 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:25 IST" name="BrowserLauching" finished-at="2023-04-27T19:08:40 IST" duration-ms="15061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Login_With_Valid_Email_ID()[pri:5, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:40 IST" name="Login_With_Valid_Email_ID" finished-at="2023-04-27T19:08:42 IST" duration-ms="1809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_With_Valid_Email_ID -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:42 IST" name="Browserclose" finished-at="2023-04-27T19:08:42 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:42 IST" name="BrowserLauching" finished-at="2023-04-27T19:08:55 IST" duration-ms="12683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Login_With_Invalid_Password_Data()[pri:6, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:55 IST" name="Login_With_Invalid_Password_Data" finished-at="2023-04-27T19:08:56 IST" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_With_Invalid_Password_Data -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:56 IST" name="Browserclose" finished-at="2023-04-27T19:08:56 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:08:56 IST" name="BrowserLauching" finished-at="2023-04-27T19:09:08 IST" duration-ms="12381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Login_With_INValid_Password_Different_User()[pri:7, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:08 IST" name="Login_With_INValid_Password_Different_User" finished-at="2023-04-27T19:09:09 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_With_INValid_Password_Different_User -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:09 IST" name="Browserclose" finished-at="2023-04-27T19:09:09 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:09 IST" name="BrowserLauching" finished-at="2023-04-27T19:09:22 IST" duration-ms="12935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Login_with_Valid_Password_Invalid_Email_ID()[pri:8, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:22 IST" name="Login_with_Valid_Password_Invalid_Email_ID" finished-at="2023-04-27T19:09:23 IST" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_Valid_Password_Invalid_Email_ID -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:23 IST" name="Browserclose" finished-at="2023-04-27T19:09:23 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:23 IST" name="BrowserLauching" finished-at="2023-04-27T19:09:34 IST" duration-ms="11021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Login_with_emptyData_Password()[pri:9, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:34 IST" name="Login_with_emptyData_Password" finished-at="2023-04-27T19:09:34 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_emptyData_Password -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:34 IST" name="Browserclose" finished-at="2023-04-27T19:09:35 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:35 IST" name="BrowserLauching" finished-at="2023-04-27T19:09:48 IST" duration-ms="13157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="LogOut_Functionality()[pri:10, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:48 IST" name="LogOut_Functionality" finished-at="2023-04-27T19:09:51 IST" duration-ms="3389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut_Functionality -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:51 IST" name="Browserclose" finished-at="2023-04-27T19:09:51 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:09:51 IST" name="BrowserLauching" finished-at="2023-04-27T19:10:06 IST" duration-ms="14073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Seeting_button_Functionality()[pri:11, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:10:06 IST" name="Seeting_button_Functionality" finished-at="2023-04-27T19:10:10 IST" duration-ms="4213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seeting_button_Functionality -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:10:10 IST" name="Browserclose" finished-at="2023-04-27T19:10:10 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+        <test-method is-config="true" signature="BrowserLauching()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:10:10 IST" name="BrowserLauching" finished-at="2023-04-27T19:10:25 IST" duration-ms="14421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLauching -->
+        <test-method signature="Seeting_Page_Preload_Data()[pri:12, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:10:25 IST" name="Seeting_Page_Preload_Data" finished-at="2023-04-27T19:10:27 IST" duration-ms="2479" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [mamatha@facileconsulting.com] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [mamatha@facileconsulting.com] but found []
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.CambriaProject.qa.testcases.LoginTest.Seeting_Page_Preload_Data(LoginTest.java:167)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seeting_Page_Preload_Data -->
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:com.CambriaProject.qa.testcases.LoginTest@7e07db1f]" started-at="2023-04-27T19:10:28 IST" name="Browserclose" finished-at="2023-04-27T19:10:28 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+      </class> <!-- com.CambriaProject.qa.testcases.LoginTest -->
+      <class name="com.CambriaProject.qa.testcases.CleintSetupTest">
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:10:28 IST" name="StartLogging" finished-at="2023-04-27T19:10:48 IST" duration-ms="19913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="VerifyGeneralDisplay()[pri:1, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:10:48 IST" name="VerifyGeneralDisplay" finished-at="2023-04-27T19:10:49 IST" duration-ms="1838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGeneralDisplay -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:10:49 IST" name="Endaction" finished-at="2023-04-27T19:10:50 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:10:50 IST" name="StartLogging" finished-at="2023-04-27T19:11:06 IST" duration-ms="16179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="PolicyDateDisplay()[pri:2, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:06 IST" name="PolicyDateDisplay" finished-at="2023-04-27T19:11:16 IST" duration-ms="10020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PolicyDateDisplay -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:16 IST" name="Endaction" finished-at="2023-04-27T19:11:16 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:16 IST" name="StartLogging" finished-at="2023-04-27T19:11:31 IST" duration-ms="14430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="PolicyClientName()[pri:3, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:31 IST" name="PolicyClientName" finished-at="2023-04-27T19:11:32 IST" duration-ms="1697" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Cambria Group Grange - Barnet Jaguar Land Rover] but found [Cambria Group - Grange - Barnet Jaguar Land Rover]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Cambria Group Grange - Barnet Jaguar Land Rover] but found [Cambria Group - Grange - Barnet Jaguar Land Rover]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.CambriaProject.qa.testcases.CleintSetupTest.PolicyClientName(CleintSetupTest.java:80)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PolicyClientName -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:33 IST" name="Endaction" finished-at="2023-04-27T19:11:33 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:33 IST" name="StartLogging" finished-at="2023-04-27T19:11:46 IST" duration-ms="12637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="policyCustomer()[pri:4, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:46 IST" name="policyCustomer" finished-at="2023-04-27T19:11:47 IST" duration-ms="1439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyCustomer -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:47 IST" name="Endaction" finished-at="2023-04-27T19:11:47 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:11:47 IST" name="StartLogging" finished-at="2023-04-27T19:12:03 IST" duration-ms="15450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="policyRegNo()[pri:5, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:03 IST" name="policyRegNo" finished-at="2023-04-27T19:12:08 IST" duration-ms="5040" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [HJ69JW4] but found [HJ69JWC]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [HJ69JW4] but found [HJ69JWC]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.CambriaProject.qa.testcases.CleintSetupTest.policyRegNo(CleintSetupTest.java:101)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyRegNo -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:08 IST" name="Endaction" finished-at="2023-04-27T19:12:08 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:08 IST" name="StartLogging" finished-at="2023-04-27T19:12:22 IST" duration-ms="14385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="policyType()[pri:6, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:22 IST" name="policyType" finished-at="2023-04-27T19:12:24 IST" duration-ms="1314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyType -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:24 IST" name="Endaction" finished-at="2023-04-27T19:12:24 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:24 IST" name="StartLogging" finished-at="2023-04-27T19:12:33 IST" duration-ms="9337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="policyStatus()[pri:7, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:33 IST" name="policyStatus" finished-at="2023-04-27T19:12:35 IST" duration-ms="1292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyStatus -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:35 IST" name="Endaction" finished-at="2023-04-27T19:12:35 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:35 IST" name="StartLogging" finished-at="2023-04-27T19:12:50 IST" duration-ms="14758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="policyClaims()[pri:8, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:50 IST" name="policyClaims" finished-at="2023-04-27T19:12:51 IST" duration-ms="1354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyClaims -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:51 IST" name="Endaction" finished-at="2023-04-27T19:12:51 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:12:51 IST" name="StartLogging" finished-at="2023-04-27T19:13:03 IST" duration-ms="11262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="policyDetailDD()[pri:9, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:13:03 IST" name="policyDetailDD" finished-at="2023-04-27T19:13:04 IST" duration-ms="1910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyDetailDD -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:13:04 IST" name="Endaction" finished-at="2023-04-27T19:13:05 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:13:05 IST" name="StartLogging" finished-at="2023-04-27T19:13:23 IST" duration-ms="18743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="ClaimButton()[pri:10, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:13:23 IST" name="ClaimButton" finished-at="2023-04-27T19:13:29 IST" duration-ms="5265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClaimButton -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:13:29 IST" name="Endaction" finished-at="2023-04-27T19:13:29 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+        <test-method is-config="true" signature="StartLogging()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:13:29 IST" name="StartLogging" finished-at="2023-04-27T19:13:41 IST" duration-ms="12145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartLogging -->
+        <test-method signature="VerifySearch0()[pri:11, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:13:41 IST" name="VerifySearch0" finished-at="2023-04-27T19:14:11 IST" duration-ms="30220" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c49e3a23fa053c3618d38e08e8d114a3, clickElement {id=4a061646-e539-45db-934b-cbce841f1ce2}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\MYH\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:49730}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49730/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (c49e3a23fa053c3618d38e08e8d114a3)] -> xpath: //body/div[@id='frame']/div[@id='main']/div[@id='container-grid']/div[@id='container']/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/input[2]]
+Session ID: c49e3a23fa053c3618d38e08e8d114a3]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c49e3a23fa053c3618d38e08e8d114a3, clickElement {id=4a061646-e539-45db-934b-cbce841f1ce2}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\MYH\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:49730}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49730/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (c49e3a23fa053c3618d38e08e8d114a3)] -> xpath: //body/div[@id='frame']/div[@id='main']/div[@id='container-grid']/div[@id='container']/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/input[2]]
+Session ID: c49e3a23fa053c3618d38e08e8d114a3
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at com.CambriaProject.qa.testcases.CleintSetupTest.VerifySearch0(CleintSetupTest.java:167)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearch0 -->
+        <test-method is-config="true" signature="Endaction()[pri:0, instance:com.CambriaProject.qa.testcases.CleintSetupTest@3349e9bb]" started-at="2023-04-27T19:14:12 IST" name="Endaction" finished-at="2023-04-27T19:14:12 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endaction -->
+      </class> <!-- com.CambriaProject.qa.testcases.CleintSetupTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

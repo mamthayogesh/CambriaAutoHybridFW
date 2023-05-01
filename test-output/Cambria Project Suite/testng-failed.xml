@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Cambria Project Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.CambriaProject.qa.listeners.MyListeners"/>
+  </listeners>
+  <test thread-count="5" name="Policy Search Testcases(failed)">
+    <classes>
+      <class name="com.CambriaProject.qa.testcases.CleintSetupTest">
+        <methods>
+          <include name="policyStatus"/>
+          <include name="policyRegNo"/>
+          <include name="policyDetailDD"/>
+          <include name="PolicyClientName"/>
+          <include name="VerifySearch0"/>
+          <include name="policyClaims"/>
+          <include name="Endaction"/>
+          <include name="StartLogging"/>
+          <include name="ClaimButton"/>
+        </methods>
+      </class> <!-- com.CambriaProject.qa.testcases.CleintSetupTest -->
+    </classes>
+  </test> <!-- Policy Search Testcases(failed) -->
+</suite> <!-- Failed suite [Cambria Project Suite] -->
