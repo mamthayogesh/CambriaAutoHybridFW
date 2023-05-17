@@ -8,18 +8,39 @@
     <classes>
       <class name="com.CambriaProject.qa.testcases.LoginTest">
         <methods>
+          <include name="Login_With_INValid_Password_Different_User"/>
+          <include name="Login_with_Valid_Password_Invalid_Email_ID"/>
+          <include name="Login_With_Valid_Email_ID"/>
           <include name="Browserclose"/>
+          <include name="LogOut_Functionality"/>
+          <include name="Login_with_emptyData_Password"/>
           <include name="Seeting_Page_Preload_Data"/>
           <include name="BrowserLauching"/>
+          <include name="Login_With_Invalid_Password_Data"/>
+          <include name="Seeting_button_Functionality"/>
         </methods>
       </class> <!-- com.CambriaProject.qa.testcases.LoginTest -->
+      <class name="com.CambriaProject.qa.testcases.ProductTest">
+        <methods>
+          <include name="StartLogging"/>
+          <include name="UpdateFunctionality"/>
+          <include name="Endaction"/>
+          <include name="ProductInvalidDataApplicatiodata"/>
+        </methods>
+      </class> <!-- com.CambriaProject.qa.testcases.ProductTest -->
       <class name="com.CambriaProject.qa.testcases.CleintSetupTest">
         <methods>
+          <include name="policyCustomer"/>
+          <include name="policyStatus"/>
+          <include name="policyDetailDD"/>
           <include name="policyRegNo"/>
-          <include name="VerifySearch0"/>
           <include name="PolicyClientName"/>
+          <include name="VerifySearch0"/>
+          <include name="policyType"/>
           <include name="Endaction"/>
+          <include name="policyClaims"/>
           <include name="StartLogging"/>
+          <include name="ClaimButton"/>
         </methods>
       </class> <!-- com.CambriaProject.qa.testcases.CleintSetupTest -->
     </classes>

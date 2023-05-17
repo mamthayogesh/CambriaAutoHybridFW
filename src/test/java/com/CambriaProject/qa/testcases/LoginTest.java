@@ -27,8 +27,12 @@ public void BrowserLauching()
 	driver.manage().window().maximize();
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 	driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
+	 long start = System.currentTimeMillis();
 	driver.get(props.getProperty("url"));
 	driver.findElement(By.partialLinkText("login")).click();
+	 long finish = System.currentTimeMillis();
+	 long totalTime = (finish - start)/1000; 
+	 System.out.println("Total Time for page load - "+totalTime);
 }
 @AfterMethod
 public void Browserclose()

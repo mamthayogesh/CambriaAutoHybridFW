@@ -6,8 +6,8 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.CambriaProject.qa.testcases.LoginTest"/>
-       <class name="com.CambriaProject.qa.testcases.CleintSetupTest"/>
+  
+      <class name="com.CambriaProject.qa.testcases.PolicyCreateTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

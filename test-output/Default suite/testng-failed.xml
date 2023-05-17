@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.CambriaProject.qa.testcases.LoginTest">
+      <class name="com.CambriaProject.qa.testcases.ClientAdd">
         <methods>
-          <include name="Seeting_Page_Postload_Data"/>
-          <include name="BrowserLauching"/>
+          <include name="StartLogging"/>
+          <include name="Endaction"/>
+          <include name="AddClientDetail"/>
         </methods>
-      </class> <!-- com.CambriaProject.qa.testcases.LoginTest -->
+      </class> <!-- com.CambriaProject.qa.testcases.ClientAdd -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
